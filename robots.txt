@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /vid/
+Disallow: /img/facebg.webp
